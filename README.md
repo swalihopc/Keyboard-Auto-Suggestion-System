@@ -27,6 +27,4 @@ This project implements a **real-time word suggestion system** using **Natural L
 
 ---
 
-## 📁 Project Structure
-
 <img width="1886" height="997" alt="image" src="https://github.com/user-attachments/assets/ae42fbc7-5c43-4ca4-8307-8f458e8943a5" />
